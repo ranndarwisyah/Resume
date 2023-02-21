@@ -1,0 +1,55 @@
+body {
+	font-family: Times New Roman, sans-serif;
+	font-size: 14px;
+	line-height: 1.4;
+}
+.clearfix{
+	clear: both;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 22px;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+section:last-child {
+	margin-bottom: 0;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+ul li {
+	margin-bottom: 10px;
+}
+
+ul.skills li {
+	display: inline-block;
+	margin-right: 10px;
+	padding: 5px 10px;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+}
+
+ul.skills li:last-child {
+	margin-right: 0;
+}
+<body bgcolor=#e7cdc2>
